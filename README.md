@@ -60,7 +60,7 @@ The repeat customer rate stands at 39.07%, indicating that while a substantial p
 Improving retention through loyalty programs, targeted engagement campaigns, and post-purchase communication could significantly increase customer lifetime value. Strengthening retention would also help stabilize revenue and reduce reliance on continuous new customer acquisition.
 
 
-# Recommendations:
+## Recommendations
 
 Our analysis supports a shift from pure revenue growth to revenue quality, stability, and scalability. The following recommendations are structured by strategic priority, with clear ownership across Sales, Marketing, Finance, Production, and Operations.
 - **Stabilize Revenue Outside Peak Windows**

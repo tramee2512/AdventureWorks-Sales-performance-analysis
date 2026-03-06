@@ -29,7 +29,7 @@ Across July 2001–July 2004, AdventureWorks achieved strong and consistent reve
 
 At the same time, the analysis shows that revenue remains concentrated across specific products, markets, and sales contributors. Customer purchasing behaviour and channel performance reveal opportunities to improve digital revenue efficiency, strengthen retention, and expand higher-margin categories such as Accessories to support more balanced and sustainable growth.
 
-![dashboard](Assets/Dashboard.png)
+![dashboard](Assets/Dashboard_1.png)
 
 ![dashboard](Assets/Dashboard_2.png)
 

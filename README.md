@@ -67,6 +67,8 @@ This concentration creates exposure to regional demand fluctuations and limits g
 ### Channel dynamics show a clear behavioral split: online drives transaction volume, while offline drives higher value revenue.
 Channel performance shows a clear behavioural split between online and offline customers. Offline sales generate 73.27% of total revenue but account for only 12% of orders, indicating that customers tend to make larger purchases in physical stores where they can interact with products and sales representatives.
 
+![insight](Assets/orders_channel.png) ![insight](Assets/sales_channels.png)
+
 In contrast, online channels represent 88% of transactions, suggesting that customers prefer the convenience of digital platforms for smaller and more frequent purchases.
 This discrepancy highlights different purchasing intents across channels. Increasing online Average Order Value (AOV) through bundling and cross-selling strategies could unlock additional revenue without disrupting the high-value offline sales base.
 

@@ -21,6 +21,7 @@ Targed SQL queries regarding various business questions can be found here [link]
 An interactive PowerBI dashboard used to report and explore sales trends can be found here [link].
 
 ## ERD
+![image](Images/ERD.png)
 
 ## Executive Summary
 

@@ -28,10 +28,9 @@ An interactive PowerBI dashboard used to report and explore sales trends can be 
 Across July 2001–July 2004, AdventureWorks achieved strong and consistent revenue growth, supported by effective seasonal campaigns, high-performing products, and a dominant presence in the US market. Sales volume increased significantly over the period, with clear revenue peaks during summer and holiday months, indicating strong execution during key promotional windows.
 
 At the same time, the analysis shows that revenue remains concentrated across specific products, markets, and sales contributors. Customer purchasing behaviour and channel performance reveal opportunities to improve digital revenue efficiency, strengthen retention, and expand higher-margin categories such as Accessories to support more balanced and sustainable growth.
+![dashboard](Images/Dashboard%201.png)
 
-![image](Images/Dashboard 1.png)
-
-![image](Images/Dashboard 2.png)
+![dashboard](Images/Dashboard%202.png)
 
 ## Insights Deep Dive
 ### Steady revenue growth across years with strong seasonality in sales

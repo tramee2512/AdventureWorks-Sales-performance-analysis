@@ -100,6 +100,15 @@ This approach is expected to rebalance product mix and increase margin contribut
 
     Sales leadership should formalise mentorship programs and document best practices to transfer knowledge across the team. Incentive structures can also be adjusted to motivate mid-tier performers while continuing to reward top contributors. This is expected to reduce performance concentration risk and improve Sales team’s productivity
 
+## Future Analysis
+
+Several additional analyses could further deepen business understanding.
+
+* **Customer Segmentation Analysis:** Segment customers based on purchase behaviour, geography, and order value to identify high-value customer groups and tailor marketing strategies.
+
+* **Product Bundling Experiments:** Conduct A/B testing for bundled product offers (e.g., Bikes with Accessories) to evaluate their impact on Average Order Value.
+
+* **Market Expansion Analysis:** Analyse regional demand patterns and customer demographics to identify the most promising international markets for future growth.
 
 ## Tools & Technologies
 * SQL (BigQuery): Data extraction and transformation from AdventureWorks database

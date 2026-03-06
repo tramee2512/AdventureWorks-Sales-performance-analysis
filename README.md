@@ -20,6 +20,9 @@ Targed SQL queries regarding various business questions can be found here [link]
 
 An interactive PowerBI dashboard used to report and explore sales trends can be found here [link].
 
+## ERD
+![ERD](images/ERD.png)
+
 ## Executive Summary
 
 Across July 2001–July 2004, AdventureWorks achieved strong and consistent revenue growth, supported by effective seasonal campaigns, high-performing products, and a dominant presence in the US market. Sales volume increased significantly over the period, with clear revenue peaks during summer and holiday months, indicating strong execution during key promotional windows.
@@ -63,19 +66,24 @@ Improving retention through loyalty programs, targeted engagement campaigns, and
 ## Recommendations
 
 Our analysis supports a shift from pure revenue growth to revenue quality, stability, and scalability. The following recommendations are structured by strategic priority, with clear ownership across Sales, Marketing, Finance, Production, and Operations.
-- **Stabilize Revenue Outside Peak Windows**
-Revenue peformance is heavily seasonal with strong peaks during campaign periods and weaker results earlier in the year. To reduce this volatility, the Marketing Team should strengthen pre-holiday and seasonal campaigns to capture early shoppers. At the same time, the Sales Team can focus on engaging high value customer segments during off-peak periods through targeted outreach and personalised offers. This initiative aims to improve revenue predictability, smooth seasonality, and strengthen forecasting accuracy for the Finance Team.
-- **Improve Online Revenue Quality**
-With 88% of transactions occurring online but lower average order value (AOV) relative to offline channels, digital growth need shift from volume to value. We recommend that the Sales and Marketing Teams implement structured cross-selling and bundling strategies (for example pairing Bikes with Accessories). Digital merchandising and product recommendations should also be optimised to encourage complementary purchases. Marketing should review the allocation of budgets toward high performing digital acquisition channels. This is expected to increase online AOV and improve overall revenue efficiency.
-- **Optimize Product Mix Toward Margin Expansion**
-Revenue concentration in Bikes limits profitability leverage, while Accessories and Clothing demonstrate strong proportional growth. We recommend that the Product Team expand the product line in Accessories and Clothing to capture additional deman and explore variations of successful products such as the Mountain-200 Black. 
-Given the growing interest in Accessories, there is also a clear opportunity to implement cross-selling strategies between Bikes, Accessories, and Clothing, particularly through bundling initiatives that increase AOV. Underperforming categories like Components may require repositioning or bundling support to improve penetration. In parallel, Finance should review pricing and cost structures within core Bike categories to protect margins.
-This approach is expected to rebalance product mix and increase margin contribution without compromising scale.
-- **Diversify Revenue Beyond the US Market**
-With over 60% of revenue concentrated in the US, geographic diversification should be prioritized. We recommend replicating successful US strategies in high growth international markets, led by Marketing and Sales Teams, with localized campaign adaptation and region specific product positioning. This will strengthen revenue diversification and reduce single-market dependency risk.
-- **Scale Sales Capability Across the Team**
-Sales leadership should formalise mentorship programs and document best practices to transfer knowledge across the team. Incentive structures can also be adjusted to motivate mid-tier performers while continuing to reward top contributors. This is expected to reduce performance concentration risk and improve Sales team’s productivity
+- **Stabilize Revenue Outside Peak Windows:**
+    
+    Revenue peformance is heavily seasonal with strong peaks during campaign periods and weaker results earlier in the year. To reduce this volatility, the Marketing Team should strengthen pre-holiday and seasonal campaigns to capture early shoppers. At the same time, the Sales Team can focus on engaging high value customer segments during off-peak periods through targeted outreach and personalised offers. This initiative aims to improve revenue predictability, smooth seasonality, and strengthen forecasting accuracy for the Finance Team.
+- **Improve Online Revenue Quality:**
 
+    With 88% of transactions occurring online but lower average order value (AOV) relative to offline channels, digital growth need shift from volume to value. We recommend that the Sales and Marketing Teams implement structured cross-selling and bundling strategies (for example pairing Bikes with Accessories). Digital merchandising and product recommendations should also be optimised to encourage complementary purchases. Marketing should review the allocation of budgets toward high performing digital acquisition channels. This is expected to increase online AOV and improve overall revenue efficiency.
+- **Optimize Product Mix Toward Margin Expansion:**
+
+    Revenue concentration in Bikes limits profitability leverage, while Accessories and Clothing demonstrate strong proportional growth. We recommend that the Product Team expand the product line in Accessories and Clothing to capture additional deman and explore variations of successful products such as the Mountain-200 Black. 
+
+    Given the growing interest in Accessories, there is also a clear opportunity to implement cross-selling strategies between Bikes, Accessories, and Clothing, particularly through bundling initiatives that increase AOV. Underperforming categories like Components may require repositioning or bundling support to improve penetration. In parallel, Finance should review pricing and cost structures within core Bike categories to protect margins.
+This approach is expected to rebalance product mix and increase margin contribution without compromising scale.
+- **Diversify Revenue Beyond the US Market:**
+
+    With over 60% of revenue concentrated in the US, geographic diversification should be prioritized. We recommend replicating successful US strategies in high growth international markets, led by Marketing and Sales Teams, with localized campaign adaptation and region specific product positioning. This will strengthen revenue diversification and reduce single-market dependency risk.
+- **Scale Sales Capability Across the Team:**
+
+    Sales leadership should formalise mentorship programs and document best practices to transfer knowledge across the team. Incentive structures can also be adjusted to motivate mid-tier performers while continuing to reward top contributors. This is expected to reduce performance concentration risk and improve Sales team’s productivity
 
 
 ## Tools & Technologies

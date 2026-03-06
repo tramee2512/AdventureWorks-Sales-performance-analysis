@@ -3,7 +3,7 @@
 ## Overview
 AdventureWorks is a multinational manufacturer and retailer of bicycles and cycling accessories, operating since the early 2000s. The company sells road bikes, mountain bikes, touring bikes, components, clothing, and accessories across six countries. Its business model combines traditional retail stores with a growing e-commerce platform, allowing customers to purchase both in-store and online.
 
-As part of the Data Team at AdventureWorks, I partnered with the Sales Manager to analyse company sales performance and identify opportunities to improve revenue quality and operational efficiency. The dataset contains 121k+ transactions recorded between July 2001 and July 2004, providing a comprehensive view of sales activity across products, markets, and channels.
+As part of the Data Team at AdventureWorks, I will be partnering with the Sales Manager to analyse company sales performance and identify opportunities to improve revenue quality and operational efficiency. The dataset contains 121k+ transactions recorded between July 2001 and July 2004, providing a comprehensive view of sales activity across products, markets, and channels.
 
 The analysis focuses on key business metrics including Revenue, Profit Margin, Repeat Customer Rate, Average Order Value (AOV), and Channel Mix. To address the business questions, insights and recommendations are provided on the following key areas, enabling the Sales, Marketing, Product and Finance Teams to improve resource allocation, product strategy, and customer retention initiatives.
 

@@ -29,11 +29,17 @@ Across July 2001–July 2004, AdventureWorks achieved strong and consistent reve
 
 At the same time, the analysis shows that revenue remains concentrated across specific products, markets, and sales contributors. Customer purchasing behaviour and channel performance reveal opportunities to improve digital revenue efficiency, strengthen retention, and expand higher-margin categories such as Accessories to support more balanced and sustainable growth.
 
+![image](Images/Dashboard 1.png)
+
+![image](Images/Dashboard 2.png)
+
 ## Insights Deep Dive
 ### Steady revenue growth across years with strong seasonality in sales
 AdventureWorks generated $109.85M in total revenue from 31.47K orders. Revenue increased consistently, with predictable peaks in May–August and October–November. The highest recorded monthly revenue reached $5.36M, validating the impact of well-timed campaigns.  These peaks reflect successful campaign execution and strong seasonal demand.
 
 At the same time Early-year performance suggests that revenue growth remains highly campaign-driven. Strengthening off-season demand generation could help smooth revenue fluctuations and improve forecasting stability.
+
+![image](Images/sales trends.png)
 
 ### Dominance of US market in sales performance. High potential in expanding customer base across regions
 Geographically, revenue remains heavily concentrated in the US, which contributes over 60% of total sales. Although international markets are expanding and the revenue gap between the US and other regions has narrowed over time, dependency on a single dominant market remains high. 

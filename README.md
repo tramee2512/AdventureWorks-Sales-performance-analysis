@@ -28,9 +28,10 @@ An interactive PowerBI dashboard used to report and explore sales trends can be 
 Across July 2001–July 2004, AdventureWorks achieved strong and consistent revenue growth, supported by effective seasonal campaigns, high-performing products, and a dominant presence in the US market. Sales volume increased significantly over the period, with clear revenue peaks during summer and holiday months, indicating strong execution during key promotional windows.
 
 At the same time, the analysis shows that revenue remains concentrated across specific products, markets, and sales contributors. Customer purchasing behaviour and channel performance reveal opportunities to improve digital revenue efficiency, strengthen retention, and expand higher-margin categories such as Accessories to support more balanced and sustainable growth.
-![dashboard](Images/Dashboard%201.png)
 
-![dashboard](Images/Dashboard%202.png)
+![dashboard](Images/Dashboard.png)
+
+![dashboard](Images/Dashboard_2.png)
 
 ## Insights Deep Dive
 ### Steady revenue growth across years with strong seasonality in sales
@@ -38,20 +39,30 @@ AdventureWorks generated $109.85M in total revenue from 31.47K orders. Revenue i
 
 At the same time Early-year performance suggests that revenue growth remains highly campaign-driven. Strengthening off-season demand generation could help smooth revenue fluctuations and improve forecasting stability.
 
-![image](Images/sales trends.png)
+![insight](Images/sales_trends.png)
 
 ### Dominance of US market in sales performance. High potential in expanding customer base across regions
 Geographically, revenue remains heavily concentrated in the US, which contributes over 60% of total sales. Although international markets are expanding and the revenue gap between the US and other regions has narrowed over time, dependency on a single dominant market remains high. 
 
 This concentration creates exposure to regional demand fluctuations and limits global growth potential. Expanding the customer base across international markets such as Canada, Australia, and Europe presents a key opportunity to diversify revenue streams and reduce geographic risk.
 
+![insight](Images/markets.png)
+
+![insight](Images/markets_1.png)
+
 ### Product mix is revenue led by Bikes, but margin expansion potential exists in complementary categories such as Accessories.
 
 **Revenue Concentration:** Road Bikes ($43.9M) and Mountain Bikes ($36.4M) dominate total revenue, with the Mountain-200 Black model is the key revenue generatore. Revenue is therefore structurally concentrated in core Bike categories, indicating strong product market fit but limited diversification at the top line level.
 
+![insight](Images/subcategories.png)
+
 **Sales volume growth:** Total quantity sold increased significantly from 24K units (FY2001) to 166K units (FY2003), representing approximately 6.9x growth ver two fiscal years.  Accessories show the most notable proportional growth, indicating rising interest in complementary purchases.
 
+![insight](Images/sales_category.png)
+
 **Category dynamics:** While Bikes provide revenue scale, Accessories demonstrate stronger relative growth and margin potential. Expanding Accessories and activating underperforming segments like Clothing and Components could improve margin contribution and create a more balanced product mix.
+
+![insight](Images/margin_category.png)
 
 ### Channel dynamics show a clear behavioral split: online drives transaction volume, while offline drives higher value revenue.
 Channel performance shows a clear behavioural split between online and offline customers. Offline sales generate 73.27% of total revenue but account for only 12% of orders, indicating that customers tend to make larger purchases in physical stores where they can interact with products and sales representatives.

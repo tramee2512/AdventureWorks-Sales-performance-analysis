@@ -21,7 +21,6 @@ Targed SQL queries regarding various business questions can be found here [link]
 An interactive PowerBI dashboard used to report and explore sales trends can be found here [link].
 
 ## ERD
-![image](https://github.com/tramee2512/AdventureWorks-Sales-performance-analysis/blob/b7eeaa433f6601d65d2a8aa9144223c130bd0a81/Images/ERD.png)
 
 ## Executive Summary
 

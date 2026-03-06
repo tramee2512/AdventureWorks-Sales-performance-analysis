@@ -14,12 +14,6 @@ The analysis focuses on key business metrics including Revenue, Profit Margin, R
 - **Sales Team Productivity:** Analysis of revenue contribution across sales representatives to identify productivity patterns.
 - **Customer Retention**: Examination of repeat purchase rates to evaluate customer loyalty and opportunities to increase long term customer value.
 
-The SQL queries used to inspect and clean the data for this analysis can be found here [link].
-
-Targed SQL queries regarding various business questions can be found here [link].
-
-An interactive PowerBI dashboard used to report and explore sales trends can be found here [link].
-
 ## ERD
 ![image](Assets/ERD.png)
 

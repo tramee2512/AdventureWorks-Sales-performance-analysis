@@ -75,11 +75,14 @@ This discrepancy highlights different purchasing intents across channels. Increa
 ### Sales performance is concentrated among a small group of representatives
 Offline revenue performance is heavily dependent on a small number of high-performing sales representatives. The top 5 salespeople generate 56% of total offline sales, reflecting strong individual productivity but also exposing operational concentration risk. Such reliance on a few individuals suggests uneven capability across the broader sales team. These findings highlight the importance of training and mentorship programs.
 
+![insight](Assets/sales_performance.png)
+
 ### Customer retention presents a growth opportunity
 The repeat customer rate stands at 39.07%, indicating that while a substantial portion of customers return to make additional purchases, the majority of customers still purchase only once.
 
 Improving retention through loyalty programs, targeted engagement campaigns, and post-purchase communication could significantly increase customer lifetime value. Strengthening retention would also help stabilize revenue and reduce reliance on continuous new customer acquisition.
 
+![insight](Assets/KPI.png)
 
 ## Recommendations
 
